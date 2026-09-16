@@ -1,11 +1,11 @@
 # About Me
 
-Hello! I am [KV].
+Hello! I am KV.
 
 Write a short paragraph about your interests, skills, or goals.
 
 ## Navigation
 
-[Notebook](notebook.mdLinks to an external site.)
+[Notebook](notebook.md)
 
 [Home](index.md)
